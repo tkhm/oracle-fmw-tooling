@@ -185,13 +185,12 @@
     },
     "wcc": {
         "files": [
-            "fmw_12.2.1.0.0_wccontent_Disk1_1of1.zip"
+            "V983399-01.zip"
         ],
-        "installer": "fmw_12.2.1.0.0_wccontent_generic.jar",
+        "installer": "fmw_12.2.1.4.0_wccontent.jar",
         "test-dir": "wccontent",
         "install_type": "WebCenter Content",
         "patches": [
-        	"p22585448_122100_Generic.zip"
         ]
     },
     "wccadf": {
@@ -289,7 +288,7 @@
     },
     "jdk": {
         "files": [
-            "jdk-8u74-linux-x64.tar.gz"
+            "jdk-8u241-linux-x64.tar.gz"
         ],
         "patches": [
         ]
@@ -305,14 +304,12 @@
     },
     "wls": {
         "files": [
-            "fmw_12.2.1.0.0_infrastructure_Disk1_1of1.zip"
+            "fmw_12.2.1.4.0_infrastructure_Disk1_1of1.zip"
         ],
-        "installer": "fmw_12.2.1.0.0_infrastructure.jar",
+        "installer": "fmw_12.2.1.4.0_infrastructure_Disk1_1of1.zip",
         "test-dir": "wlserver",
         "install_type": "Fusion Middleware Infrastructure",
         "patches": [
-        	"p22331568_122100_Generic.zip",
-        	"p22541322_122100_Generic.zip"
         ],
         "template-name": "Basic WebLogic Server Domain",
         "version": "12.2.1",
