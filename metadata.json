@@ -185,9 +185,9 @@
     },
     "wcc": {
         "files": [
-            "V779244-01.zip"
+            "V983399-01.zip"
         ],
-        "installer": "fmw_12.2.1.2.0_wccontent.jar",
+        "installer": "fmw_12.2.1.4.0_wccontent.jar",
         "test-dir": "wccontent",
         "install_type": "WebCenter Content",
         "patches": [
@@ -304,9 +304,9 @@
     },
     "wls": {
         "files": [
-            "V779119-01.zip"
+            "V983364-01.zip"
         ],
-        "installer": "fmw_12.2.1.2.0_wls.jar",
+        "installer": "fmw_12.2.1.4.0_wls.jar",
         "test-dir": "wlserver",
         "install_type": "Fusion Middleware Infrastructure",
         "patches": [
